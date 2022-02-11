@@ -1,10 +1,10 @@
 ---
-name: SRTM
-description: STREET MONEY is a cryptocurrency lives on Zilliqa blockchain
-categories: NFT, web3
+name: STREET MONEY
+description: Street Art Project, SRTM is a token for Artist in Digital Art World. 
+categories: NFT
 status: Live
-twitter: streetmoneybsc
-website: https://modfxmarket.com/
+twitter: https://twitter.com/cryptosrtm
+website: https://modfxmarket.com/street
 discord: False
-telegram: False
+telegram: https://t.me/streetbsc
 ---
